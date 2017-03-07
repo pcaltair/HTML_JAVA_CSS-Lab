@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <Title> HTML DEMO
+  </head>
+  <body>
+    <h1> My first h1 heading </h1>
+    <p> My first paragraph </p>
+    <h2> My second heading <h2>
+    <p> My second paragraph </p>
+  </body>
